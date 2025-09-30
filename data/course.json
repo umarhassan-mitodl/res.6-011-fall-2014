@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Science"
+    ]
+  ],
+  "legacy_uid": "8f4871c7-094f-45cc-398b-87684560a157",
+  "instructors": {
+    "content": [
+      "3069cc28-b31e-9000-e3ac-1f88d33c39de"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "394db128-e086-710d-ca67-d3beaa62116c",
+    "website": "res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014"
+  },
+  "course_title": "The Art of Insight in Science and Engineering: Mastering Complexity",
+  "hide_download": true,
+  "course_description": "In this book, Sanjoy Mahajan shows us that the way to master complexity is through insight rather than precision. Precision can overwhelm us with information, whereas insight connects seemingly disparate pieces of information into a simple picture. Unlike computers, humans depend on insight. Based on the author's fifteen years of teaching at MIT, Cambridge University, and Olin College, _The Art of Insight in Science and Engineering_ shows us how to build insight and find understanding, giving readers tools to help them solve any problem in science and engineering. (Description courtesy of MIT Press.)\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.6-011",
+  "course_image_thumbnail": {
+    "content": "29e4f80b-5b53-69a6-575a-606f5394d22e",
+    "website": "res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Open Textbooks"
+  ],
+  "site_uid": "4dfaa4ad-3a7d-4f2d-b796-3c0feffb0ec6",
+  "site_short_id": "res.6-011-fall-2014",
+  "site_url_path": "courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014",
+  "title": "Course Metadata"
+}
